@@ -28,10 +28,10 @@ I-am-nahuflores@github
 ✧ Experience working on projects using Flask, PHP, XAMPP, and MySQL  
 ✧ I built a web app using Firebase (Auth + Firestore)  
 ✧ Strong interest in web development, automation, and tooling  
-✧ Learning and improving HTML, CSS, JavaScript, Python, Astro, and Tailwind  
+✧ Learning and improving HTML, CSS, Astro and Tailwind  
 ✧ Main languages: Python and JavaScript  
-✧ Interested in building complete web platforms: frontend + backend + databases  
-✧ In a complicated (but steadily improving) relationship with JavaScript  
+✧ Building full-stack web platforms from frontend to backend  
+✧ In a complicated (but steadily improving) relationship with JS  
 ✧ Love metal, lofi and soft music 
 ```
 <hr>
