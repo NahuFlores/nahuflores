@@ -23,14 +23,15 @@ echo "+----------------------------------------------------------------+";
 ```
 I-am-nahuflores@github
 -------------------------
-✧ I am a programming student focused on Full Stack Development
-✧ Currently pursuing a Technical Degree in Programming
-✧ I have experience working on projects using Flask, PHP, XAMPP, and MySQL
-✧ I have a strong interest in web development, automation, and tooling
-✧ Learning and improving HTML, CSS, JavaScript, Python, Astro, and Tailwind
-✧ Main languages: Python and JavaScript
-✧ Interested in building complete web platforms: frontend + backend + databases
-✧ In a complicated (but steadily improving) relationship with JavaScript
-✧ Love metal, lofi and soft music
+✧ I am a programming student focused on Full Stack Development  
+✧ Currently pursuing a Technical Degree in Programming  
+✧ Experience working on projects using Flask, PHP, XAMPP, and MySQL  
+✧ I built a web app using Firebase (Auth + Firestore)  
+✧ Strong interest in web development, automation, and tooling  
+✧ Learning and improving HTML, CSS, JavaScript, Python, Astro, and Tailwind  
+✧ Main languages: Python and JavaScript  
+✧ Interested in building complete web platforms: frontend + backend + databases  
+✧ In a complicated (but steadily improving) relationship with JavaScript  
+✧ Love metal, lofi and soft music 
 ```
 <hr>
